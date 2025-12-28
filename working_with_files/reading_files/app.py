@@ -13,7 +13,6 @@ def read_file():
 
     for line in lines:
         print(line)
-        print("i'm working")
 
     #close file
     file.close()
