@@ -1,0 +1,28 @@
+{
+  "Books": [
+    {
+      "Book": "Gospel of John",
+      "Covenant": "New Testament"
+    },
+    {
+      "Book": "Gospel of Mark",
+      "Covenant": "New Testament"
+    },
+    {
+      "Book": "Revelation",
+      "Covenant": "New Testament"
+    },
+    {
+      "Book": "Genesis",
+      "Covenant": "Old Testament"
+    },
+    {
+      "Book": "Isaiah",
+      "Covenant": "Old Testament"
+    },
+    {
+      "Book": "Exodus",
+      "Covenant": "Old Testament"
+    }
+  ]
+}
